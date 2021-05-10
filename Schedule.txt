@@ -1,0 +1,10 @@
+Week-1
+  
+Week-2
+  configuration of the automation system
+Week-3
+  Integration of code with microcontroller circuit
+Week-4
+  Testing and debugging the simulation
+  
+  In the event that one of the milestones is finished ahead of time, it is good to quickly move onto the next milestone to save time and give more room for improvement.
