@@ -1,5 +1,5 @@
 Week-1
-  
+  building the automation hardware on a simulating software.
 Week-2
   configuration of the automation system
 Week-3
